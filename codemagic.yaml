@@ -30,4 +30,4 @@ workflows:
       scripts:
         - name: HTTP notification
           script: |
-            curl https://flagapp.mediamaitre.agency/backend/api/observe/notice/b0891b13-608c-05f7-76bc-bd9e4fe3c4e1
+            curl https://new-project.mediamaitre.agency/backend/api/observe/notice/b0891b13-608c-05f7-76bc-bd9e4fe3c4e1
